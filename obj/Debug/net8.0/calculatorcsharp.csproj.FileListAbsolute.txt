@@ -1,0 +1,14 @@
+/home/ruan/projects/calculatorcsharp/bin/Debug/net8.0/calculatorcsharp
+/home/ruan/projects/calculatorcsharp/bin/Debug/net8.0/calculatorcsharp.deps.json
+/home/ruan/projects/calculatorcsharp/bin/Debug/net8.0/calculatorcsharp.runtimeconfig.json
+/home/ruan/projects/calculatorcsharp/bin/Debug/net8.0/calculatorcsharp.dll
+/home/ruan/projects/calculatorcsharp/bin/Debug/net8.0/calculatorcsharp.pdb
+/home/ruan/projects/calculatorcsharp/obj/Debug/net8.0/calculatorcsharp.GeneratedMSBuildEditorConfig.editorconfig
+/home/ruan/projects/calculatorcsharp/obj/Debug/net8.0/calculatorcsharp.AssemblyInfoInputs.cache
+/home/ruan/projects/calculatorcsharp/obj/Debug/net8.0/calculatorcsharp.AssemblyInfo.cs
+/home/ruan/projects/calculatorcsharp/obj/Debug/net8.0/calculatorcsharp.csproj.CoreCompileInputs.cache
+/home/ruan/projects/calculatorcsharp/obj/Debug/net8.0/calculatorcsharp.dll
+/home/ruan/projects/calculatorcsharp/obj/Debug/net8.0/refint/calculatorcsharp.dll
+/home/ruan/projects/calculatorcsharp/obj/Debug/net8.0/calculatorcsharp.pdb
+/home/ruan/projects/calculatorcsharp/obj/Debug/net8.0/calculatorcsharp.genruntimeconfig.cache
+/home/ruan/projects/calculatorcsharp/obj/Debug/net8.0/ref/calculatorcsharp.dll
